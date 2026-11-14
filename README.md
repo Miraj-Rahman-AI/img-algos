@@ -14,7 +14,7 @@
 
 </p>
 
----
+
 
 ## 1. Overview
 
@@ -39,7 +39,7 @@ The primary objective is to provide practical implementations and experimental e
 - OpenCV and PyTorch Implementations
 - TensorFlow-Based Computer Vision Models
 
----
+
 
 ## 2. Repository Projects
 
@@ -115,7 +115,7 @@ The distance measurement is an approximate estimate derived from detected boundi
 
 [Explore ObjDet-Distance](./ObjDet-Distance/)
 
----
+
 
 ### 2.2 YOLO Object Detection with OpenCV
 
@@ -217,7 +217,7 @@ YOLOv3 may struggle with very small objects and multiple objects located close t
 
 [Explore YOLO-OpenCV](./YOLO-OpenCV/)
 
----
+
 
 ### 2.3 YOLACT: Real-Time Instance Segmentation
 
@@ -345,7 +345,7 @@ https://arxiv.org/abs/1904.02689
 
 [Explore YOLACT-tf](./YOLACT-tf/)
 
----
+
 
 ### 2.4 Iterative Fully Convolutional Network (Iter-FCN)
 
@@ -474,7 +474,6 @@ These figures are reported project results, not an independently reproduced benc
 
 [Explore Iter-FCN](./iter-FCN/)
 
----
 
 ## 3. Computer Vision Concepts Covered
 
@@ -493,7 +492,6 @@ The repository provides practical exposure to several important computer vision 
 | Evaluation | Dice Coefficient | iter-FCN |
 | Deep Learning | CNNs, FPN, Fully Convolutional Networks | Multiple Projects |
 
----
 
 ## 4. Overall Architecture
 
@@ -531,7 +529,6 @@ flowchart TD
     S --> T
 ```
 
----
 
 ## 5. Technologies and Frameworks
 
@@ -577,7 +574,6 @@ The repository explores different computer vision and deep learning technologies
 - imutils
 - Flask
 
----
 
 ## 6. Installation and Environment Setup
 
@@ -633,7 +629,6 @@ For other projects, follow the installation instructions in their respective REA
 - The Iter-FCN inference implementation explicitly uses CUDA. CPU execution requires code modifications.
 - YOLACT requires TensorFlow 2, as checked by its model implementation.
 
----
 
 ## 7. Datasets and Model Weights
 
@@ -650,7 +645,6 @@ Some datasets and model weights must be downloaded separately and placed in the 
 
 Before running experiments, verify the configuration paths, pretrained checkpoints, dataset structure, and annotation formats.
 
----
 
 ## 8. Current Limitations
 
@@ -669,7 +663,6 @@ Known considerations include:
 
 The repository is intended primarily for educational, experimental, and research purposes. Experimental results should be independently validated before being used in production systems.
 
----
 
 ## 9. Future Development
 
@@ -685,7 +678,6 @@ Potential future improvements include:
 - Improving documentation and installation procedures.
 - Developing more efficient real-time computer vision applications.
 
----
 
 ## 10. References and Resources
 
@@ -711,17 +703,7 @@ Potential future improvements include:
 - [PyTorch](https://pytorch.org/)
 - [OpenCV](https://opencv.org/)
 
----
 
-## 11. Author and Maintainer
-
-**Mahabubur Rahman Miraj**
-
-AI Researcher | Computer Vision | Deep Learning | Trustworthy AI
-
-GitHub: [@Miraj-Rahman-AI](https://github.com/Miraj-Rahman-AI)
-
----
 
 ## 12. Acknowledgments
 
@@ -734,15 +716,7 @@ Please refer to the individual project documentation for specific implementation
 ---
 
 <p align="center">
-
-<strong>Image Algorithms | img-algos</strong>
-
-<br/>
-
-Computer Vision • Image Processing • Deep Learning
-
-<br/>
-
-<em>Exploring Visual Intelligence Through Algorithms and Implementation</em>
-
+  <strong>Image Algorithms | img-algos</strong><br>
+  Computer Vision · Image Processing · Deep Learning<br>
+  <em>Exploring Visual Intelligence Through Algorithms and Implementation</em>
 </p>
